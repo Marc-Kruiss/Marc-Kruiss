@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mukta&color=F85D7F&center=true&vCenter=true&lines=Passionate+programmer;No+fear+of+new+technology;Team-oriented+and+creative;Professional+software+development+education" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section
+<!-- my Social icons section
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
